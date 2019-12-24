@@ -1,0 +1,8 @@
+.dataTables_length.bs-select .custom-select, .dataTables_filter input{
+  width: auto; align-self: center; margin: 0 0 0 5px;
+}
+.dataTables_length.bs-select label, .dataTables_filter label{
+  display: flex; flex: 0 0 1; flex-wrap: wrap; align-self: center;
+}
+.dataTables_filter label{
+justify-content: flex-end;}
